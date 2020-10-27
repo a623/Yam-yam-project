@@ -3,6 +3,14 @@
 <h1>//Krishify is still work in progress. Anything stated below may or maynot be considered as finale.// </h1>
 
 <br>
+<h2>-> Proposed Logo</h2>
+<br>
+
+
+<img src="https://github.com/sushantpeace10/PROJ-KRISHIFY/blob/new/just_starting/wip/Krishify_logo%5BNOT%20FINLAE%5D%5D.png" width="250">
+
+
+<br>
 <h2>-> Descripton </h2>
 <br>
 
